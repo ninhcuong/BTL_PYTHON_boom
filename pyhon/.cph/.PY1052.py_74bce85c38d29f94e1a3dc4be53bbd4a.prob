@@ -1,0 +1,1 @@
+{"name":"Local: PY1052","url":"c:\\pyhon\\PY1052.py","tests":[{"id":1676283644000,"input":"3\n\n12234323130097\n3443354654654654461123\n43543543434554659999","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\pyhon\\PY1052.py","group":"local","local":true}

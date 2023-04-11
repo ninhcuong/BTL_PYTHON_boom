@@ -1,0 +1,1 @@
+{"name":"Local: Lam_Tron_So","url":"c:\\pyhon\\Lam_Tron_So.py","tests":[{"id":1676335645721,"input":"7\n15\n14\n5\n99\n123456789\n44444445\n1445","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\pyhon\\Lam_Tron_So.py","group":"local","local":true}

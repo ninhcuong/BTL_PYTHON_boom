@@ -1,0 +1,1 @@
+{"name":"Local: Th2_Chuan_Hoa_Cau","url":"c:\\pyhon\\Th2_Chuan_Hoa_Cau.py","tests":[{"id":1679195006347,"input":"co 03 chuyen nganh la: Cong  nghe phan mem, Tri tue nhan tao va An toan thong tin\ncong nghe thong tin cua chugn ta .","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\pyhon\\Th2_Chuan_Hoa_Cau.py","group":"local","local":true}
